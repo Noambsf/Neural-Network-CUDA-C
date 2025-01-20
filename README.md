@@ -34,4 +34,4 @@ You can find the original code (written in C only) that we used as a baseline at
 
 ## Final results
 
-In the end, our CUDA optimization pipeline reduced the average training time per epoch go from approximately 53.2 seconds to 9.1 seconds. All experiments were conducted on the same Jetson Nano provided by the school.
+In conclusion, our CUDA optimization pipeline reduced the average training time per epoch from approximately **53.2 seconds** to **9.1 seconds**. All experiments were conducted on the same **Jetson Nano** provided by the school.
